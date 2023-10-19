@@ -2,4 +2,6 @@
     <string name="app_name">IntentMas</string>
     <string name="move_activities">Move activities</string>
     <string name="this_is_moveactivity">this is moveActivity</string>
+    <string name="move_with_data">Move With data</string>
+    <string name="data_received">Data received</string>
 </resources>
