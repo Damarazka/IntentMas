@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IntentMas</string>
+    <string name="move_activities">Move activities</string>
+    <string name="this_is_moveactivity">this is moveActivity</string>
 </resources>

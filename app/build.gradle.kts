@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.damarazka.intentmas"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.damarazka.intentmas"
