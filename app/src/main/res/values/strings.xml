@@ -8,4 +8,11 @@
     <string name="object_received">object received</string>
     <string name="dial_number">Dial Number</string>
     <string name="move_with_object1">Move with object</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">Choose</string>
+    <string name="move_with_result">move with result</string>
+    <string name="result_from_activity">result from activity</string>
 </resources>
