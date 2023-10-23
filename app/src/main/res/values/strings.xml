@@ -4,4 +4,6 @@
     <string name="this_is_moveactivity">this is moveActivity</string>
     <string name="move_with_data">Move With data</string>
     <string name="data_received">Data received</string>
+    <string name="move_with_object">move with object</string>
+    <string name="object_received">object received</string>
 </resources>
