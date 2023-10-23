@@ -6,4 +6,6 @@
     <string name="data_received">Data received</string>
     <string name="move_with_object">move with object</string>
     <string name="object_received">object received</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="move_with_object1">Move with object</string>
 </resources>
