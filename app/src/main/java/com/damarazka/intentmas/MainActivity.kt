@@ -34,8 +34,18 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                 moveWithDataIntent.putExtra(MoveWithDataActivity.EXTRA_AGE, 18)
                 startActivity(moveWithDataIntent)
             }
+            R.id.btn_move_activity_object -> {
+                val person = Person(
+                    "Damarazka",
+                    18,
+                    "Damarazka123@gmail.com",
+                    "Semarang"
+                )
 
-
+                val moveWithObjectIntent = Intent(this@MainActivity, MoveWithObjectActivity::class.java)
+                moveWithObjectIntent.putExtra(MoveWithObjectActivity.EXTRA_PERSON,person)
+                startActivity(moveWithObjectIntent)
+            }
         }
     }
 }
